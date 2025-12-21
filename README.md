@@ -39,11 +39,11 @@ Essa abordagem garantiu **eficiência e confiabilidade** para o pipeline subsequ
 ---
 
 ## ✅ Status Atual
-- [] Estrutura de pastas criada  
-- [] Coleta de dados inicial (10 vagas)  
-- [] Modelagem do banco de dados  
-- [] Primeiras análises  
-- [] Dashboard inicial  
+- [ ] Estrutura de pastas criada  
+- [ ] Coleta de dados inicial (10 vagas)  
+- [ ] Modelagem do banco de dados  
+- [ ] Primeiras análises  
+- [ ] Dashboard inicial  
 
 ---
 
