@@ -7,10 +7,18 @@ Este documento descreve a **estrutura de abas do Excel** e o **prompt usado para
 ##  Estrutura das abas do Excel
 
 ### Aba `vagas`
-ID, Empresa, Cargo, Modelo_Trab, Area_Atuacao, Data, Nível, Localizacao, Tipo_Contratacao, Ferramentas_Específicas, Remoto, Categoria, Fonte_Vaga
+ID, Empresa, Setor, Cargo, Modelo_Trabalho, Area_Atuacao, Data, Senioridade, Localizacao, Tipo_Contratacao, Ferramentas_Específicas, Remoto, Categoria, Fonte_Vaga
 
 ### Aba `skills`
-Colunas:  Vaga_ID, Skill, Tipo, Nivel_Conhecimento, Obrigatoria, Categoria
+Colunas:  Vaga_ID, Skill, Tipo, Nivel_Conhecimento, Obrigatório/Diferencial, Categoria
+
+Embora exista uma estrutura completa prevista, apenas um subconjunto das abas e colunas é utilizado nesta fase, conforme descrito abaixo.
+
+### Aba `vagas`
+ID, Empresa, Setor, Cargo, Modelo_Trabalho, Localização, Senioridade
+
+### Aba `skills`
+Vaga_ID, Skill, Obrigatório/Diferencial
 
 ---
 
