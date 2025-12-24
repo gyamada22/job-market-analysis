@@ -27,9 +27,9 @@ O fluxo do projeto segue:
 | Etapa | Ferramenta | Função |
 |-------|------------|------|
 | Coleta & extração | IA via prompts | Extrai dados estruturados da vaga |
-| Visualização inicial | Excel | Conferência e revisão rápida. Arquivo: [Raw Data](data/raw/Vagas_Coletadas_Raw.xlsx) |
-| Limpeza e padronização | Python | Padroniza dados, corrige inconsistências e gera Excel/SQL.Arquivo: [Cleaned Data](data/cleaned/Vagas_Coletadas_Cleaned.xlsx), Script: [ETL.py](data/ETL.py) |
-| Modelagem e análise | SQL | Criação de tabelas, views e queries analíticas. *(Em desenvolvimento)* |
+| Visualização inicial | Excel | Conferência e revisão rápida. Arquivo: [Raw Data](https://github.com/gyamada22/Job-Market-Analysis/blob/main/data/raw/Vagas_Coletadas_Raw.xlsx?raw=true) |
+| Limpeza e padronização | Python | Padroniza dados, corrige inconsistências e gera Excel/SQL. Arquivo: [Cleaned Data](https://github.com/gyamada22/Job-Market-Analysis/blob/main/data/cleaned/Vagas_Coletadas_Cleaned.xlsx?raw=true), Script: [ETL.py](https://github.com/gyamada22/Job-Market-Analysis/blob/main/data/ETL.py) |
+| Modelagem e análise | SQL | Criação de tabelas, views e queries analíticas. |
 | Dashboards | Power BI | Visualização interativa, insights e storytelling |
 | Documentação | GitHub | Registro completo do projeto, metodologia e exemplos de dashboards |
 
