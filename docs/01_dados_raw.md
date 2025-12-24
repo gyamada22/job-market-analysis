@@ -2,13 +2,22 @@
 
 Este arquivo contém os dados coletados diretamente das plataformas de recrutamento (ex: LinkedIn), sem nenhum processamento ou padronização. Ele serve como **ponto de partida para toda a análise**, garantindo a preservação dos dados originais.
 
-##  Método de Coleta (Contexto)
+##  Método de Coleta (Fluxo Real)
 
-Devido às limitações da API do LinkedIn, os dados foram coletados através de:
-1. **Busca manual** de vagas no LinkedIn
-2. **Extração estruturada** via prompts de IA (ChatGPT/Claude)
-3. **Consolidação manual** em Excel
-4. **Segmentação** em duas abas relacionadas (vagas ↔ skills)
+1. **Busca manual** de vagas no LinkedIn  
+   - Navegação em vagas reais, captura de informações  
+
+2. **Extração estruturada** via prompts de IA  
+   - Uso de ChatGPT para organizar dados não estruturados  
+
+3. **Consolidação inicial** em Excel  
+   - **Objetivo**: Visualização rápida e organização preliminar  
+   - **Não é** o local de armazenamento final  
+   - Usado apenas para verificar consistência e estrutura  
+
+4. **Segmentação estratégica** em duas abas  
+   - Separação intencional entre dados da vaga e skills  
+   - Facilita a análise relacional posterior
 
 ---
 
