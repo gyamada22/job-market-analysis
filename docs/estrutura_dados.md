@@ -12,7 +12,11 @@ ID, Empresa, Setor, Cargo, Modelo_Trabalho, Area_Atuacao, Data, Senioridade, Loc
 ### Aba `skills`
 Colunas:  Vaga_ID, Skill, Tipo, Nivel_Conhecimento, Obrigatório/Diferencial, Categoria
 
-## Embora exista uma estrutura completa prevista, apenas um subconjunto das abas e colunas é utilizado nesta fase, conforme descrito abaixo.
+## Estrutura Utilizada no Projeto
+
+Embora a coleta tenha contemplado um conjunto mais amplo de informações sobre as vagas, **nesta etapa do projeto foi realizado um recorte intencional**, selecionando apenas as colunas **estritamente necessárias** para atender aos objetivos analíticos definidos.
+
+Essa abordagem permite maior foco, clareza e consistência nas análises, além de facilitar a evolução futura do projeto sem retrabalho na coleta.
 
 ### Aba `vagas`
 ID, Empresa, Setor, Cargo, Modelo_Trabalho, Localização, Senioridade
