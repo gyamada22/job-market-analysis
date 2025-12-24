@@ -12,7 +12,7 @@ ID, Empresa, Setor, Cargo, Modelo_Trabalho, Area_Atuacao, Data, Senioridade, Loc
 ### Aba `skills`
 Colunas:  Vaga_ID, Skill, Tipo, Nivel_Conhecimento, Obrigatório/Diferencial, Categoria
 
-Embora exista uma estrutura completa prevista, apenas um subconjunto das abas e colunas é utilizado nesta fase, conforme descrito abaixo.
+## Embora exista uma estrutura completa prevista, apenas um subconjunto das abas e colunas é utilizado nesta fase, conforme descrito abaixo.
 
 ### Aba `vagas`
 ID, Empresa, Setor, Cargo, Modelo_Trabalho, Localização, Senioridade
