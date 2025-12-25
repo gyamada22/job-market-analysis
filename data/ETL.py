@@ -160,7 +160,9 @@ vagas['Localizacao'] = vagas['Localização'].apply(padronizar_estado)
 skills['Requisito'] = skills['Requisito'].apply(padronizar_requisito)
 skills['Skill'] = skills['Skill'].apply(padronizar_skill)
 
-
+# salvar arquivos limpos em Excel
+vagas.to_excel(CONFIG['excel_processado'], index=False, sheet_name='Vagas')
+skills.to_excel(CONFIG['excel_processado'], index=False, sheet_name='Skills')
 
 def conectar_banco():
     conn_str = (
