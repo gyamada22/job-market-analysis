@@ -78,9 +78,7 @@ Nesse contexto, a **Cloud deixa de ser uma tecnologia isolada** e passa a ser o 
 
 Este projeto parte dessa realidade global para analisar **como o mercado brasileiro traduz essa explosão de dados em exigências técnicas concretas**, segmentadas por nível de senioridade.
 
-> **Fonte:** Gitnux Big Data & Analytics Market Report (2024) — compilação de estatísticas de volume de dados, tendências tecnológicas e mercado de análise de dados.
-
-
+>Fonte: [Gitnux Big Data & Analytics Market Report (2024)](https://www.gitnux.com/big-data-analytics-market-report-2024) 
 
 ---
 
