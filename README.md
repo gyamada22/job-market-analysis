@@ -15,24 +15,6 @@
   <img src="./docs/images/Repo_Structure.png" width="40%">
 </p>
 
-
-O repositório está organizado da seguinte forma:
-
-- **data/raw/** – Dados brutos coletados das vagas  
-  [Leia mais](./data/raw/README.md)
-
-- **data/processed/** – Dados limpos e padronizados  
-  [Leia mais](./data/processed/README.md)
-
-- **scripts/** – Código Python responsável por limpeza, padronização e carga de dados (ETL)  
-  [Leia mais](./scripts/README.md)
-
-- **sql/** – Queries SQL utilizadas para análise e geração de dashboards  
-  [Leia mais](./sql/README.md)
-
-- **docs/images/** – Imagens e dashboards gerados a partir das análises  
-  [Leia mais](./docs/images/README.md)
-
 ---
 
 ##  Coleta de Dados
