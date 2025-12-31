@@ -59,9 +59,6 @@ O fluxo do projeto segue:
 
 # 📊 Análise do Mercado de Dados — Evolução por Senioridade
 
-> 📌 **Projeto de Análise do Mercado de Dados Brasileiro**  
----
-
 ## 1. Contexto Global: A Explosão de Dados
 
 O volume global de dados cresce em ritmo exponencial. Estudos de mercado indicam que **mais de 90% de todos os dados existentes no mundo foram gerados nos últimos dois anos**, com o total de dados estimado para alcançar **181 zettabytes até 2025**. Esse crescimento é impulsionado principalmente por:
