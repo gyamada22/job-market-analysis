@@ -79,6 +79,8 @@ Esse crescimento torna **inviável** a gestão de dados por meio de soluções l
 Nesse contexto, **Cloud deixa de ser uma tecnologia isolada** e passa a ser o **ambiente base** onde dados são gerados, armazenados e consumidos — impactando **todos os níveis de senioridade**, ainda que de formas diferentes.
 
 Este projeto parte dessa realidade global para analisar **como o mercado brasileiro traduz essa explosão de dados em exigências técnicas concretas**, segmentadas por nível de senioridade.
+> Fonte: [Rivery – Big Data Statistics: How Much Data is There in the World?](https://rivery.io/blog/big-data-statistics-how-much-data-is-there-in-the-world/)
+
 
 ---
 
