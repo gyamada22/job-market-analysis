@@ -11,6 +11,11 @@
 
 ## 📂 Estrutura do Repositório
 
+<p align="center">
+  <img src="./docs/images/Repository_Structure.png" width="100%">
+</p>
+
+
 O repositório está organizado da seguinte forma:
 
 - **data/raw/** – Dados brutos coletados das vagas  
