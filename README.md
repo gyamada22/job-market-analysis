@@ -113,7 +113,7 @@ Embora o **Power BI** concentre o maior volume de exigências ao longo da carrei
 
 Seu pico ocorre no nível Pleno, onde:
 - é o **3º maior diferencial técnico (15,09%)**
-- alcança **18,66% de obrigatoriedade** quando ferramentas básicas (SQL, Excel e Power BI) são desconsideradas
+- alcança **18,66% de necessidade** quando ferramentas básicas (SQL, Excel e Power BI) são desconsideradas
 
 Isso indica que o Tableau atua como um **marcador de especialização**, especialmente em contextos fora do ecossistema Microsoft e em ambientes analíticos mais avançados.
 
