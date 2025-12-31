@@ -69,7 +69,7 @@ Este projeto parte dessa realidade global para analisar **como o mercado brasile
 O nível Júnior está concentrado no **consumo e visualização de dados**, com foco em ferramentas de BI e análise básica.  
 Mesmo nesse estágio, o Cloud já aparece como diferencial, refletindo que **os dados analisados já nascem majoritariamente em ambientes de nuvem**.
 
-**Principais Insights**
+**Exigências Técnicas**
 - **Obrigatório:** Power BI (81,82%), Excel Avançado (59,60%) e SQL (55,56%)
 - **Diferencial:** Python (27,03%), **Cloud** e Tableau (16,22%)
 
@@ -89,7 +89,7 @@ Isso explica a presença precoce do Cloud como diferencial, alinhada ao crescime
 O nível Pleno representa o **ponto de transição estrutural** entre análise e engenharia analítica.  
 Com o aumento do volume e da complexidade dos dados, o mercado passa a exigir profissionais capazes de **transformar, integrar e preparar dados em ambientes distribuídos**.
 
-**Principais Insights**
+**Exigências Técnicas**
 - **Obrigatório:** Power BI (82,84%), SQL (79,10%) e Python (62,69%)
 - **Diferenciais estratégicos:** ETL (20,75%), **Cloud (16,98%)** e Tableau (15,09%)
 
@@ -110,7 +110,7 @@ No nível Sênior, o foco migra definitivamente da análise para **arquitetura, 
 
 Nesse estágio, o crescimento global de dados deixa de ser um contexto externo e passa a ser um **problema técnico direto**, exigindo soluções robustas e altamente confiáveis.
 
-**Principais Insights**
+**Exigências Técnicas**
 - **Obrigatório:** Power BI (89,06%), SQL (84,38%) e Python (71,88%)
 - **Diferenciais dominantes:** **Cloud (50,00%)**, Big Data (38,46%) e ETL (23,08%)
 
