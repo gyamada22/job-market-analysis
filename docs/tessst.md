@@ -9,6 +9,10 @@ O projeto mapeou o mercado de dados brasileiro através da extração de informa
 
 ## 2. Evolução por Senioridade
 
+<p align="center">
+  <img src="./docs/images/junior_project.png" width="700">
+</p>
+
 ###  Júnior (101 Vagas)
 * **Base [Obrigatório]:** Domínio de **Power BI** (27,36%), Excel Avançado (20,27%) e SQL (18,58%).
 * **[Diferencial] de Destaque:** **Bibliotecas Python** (8,85%) e Tableau (5,31%) aparecem como as principais ferramentas para superar a concorrência inicial.
