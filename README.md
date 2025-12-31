@@ -121,15 +121,17 @@ Isso indica que o Tableau atua como um **marcador de especialização**, especia
 
 ## 5. Recomendações de Carreira (Pathing)
 
-**Júnior:**  
+- **Júnior:**  
 Foco em Power BI, SQL e Excel Avançado. Python e Tableau funcionam como diferenciais iniciais.
 
-**Pleno:**  
+- **Pleno:**  
 Consolidação de Python (Pandas, NumPy), ETL e SQL.  
 **Cloud (AWS/Azure) surge como diferencial estratégico**, refletindo a transição para ambientes de dados mais complexos, distribuídos e orientados à escala.
 
-**Sênior:**  
-Direcionamento para Cloud (AWS/Azure) como infraestrutura base, Big Data e orquestração de pipelines (ex.: Apache Airflow), alinhado à realidade de dados em larga escala.
+- **Sênior:**  
+Atuação consolidada em **Cloud (AWS/Azure)** como infraestrutura base, com domínio de Big Data e orquestração de pipelines (ex.: Apache Airflow), assumindo responsabilidade pela **arquitetura, confiabilidade e escalabilidade** de dados em ambientes de larga escala.
+
+
 
 ---
 
