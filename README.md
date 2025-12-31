@@ -122,7 +122,7 @@ Isso indica que o Tableau atua como um **marcador de especialização**, especia
 ## 5. Recomendações de Carreira (Pathing)
 
 - **Júnior:**  
-  Foco em Power BI e SQL. Python e Tableau funcionam como diferenciais iniciais.
+  Foco em Power BI, SQL e Excel Avançado. Python e Tableau funcionam como diferenciais iniciais.
 
 - **Pleno:**  
   Consolidação de Python (Pandas, NumPy), ETL e SQL. Tableau para análises e visualizações mais sofisticadas.
