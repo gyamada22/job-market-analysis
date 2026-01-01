@@ -24,20 +24,26 @@ Essa abordagem garantiu **eficiência e confiabilidade** para o pipeline subsequ
 
 ##  Tecnologias e Ferramentas
 
-O fluxo do projeto segue:
+**Stack Técnica**
 
-**Coleta** ![IA](https://img.shields.io/badge/IA-AI-blue) ⟶ **Visualização** ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ⟶ **Limpeza** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ⟶ **Análise** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ⟶ **Apresentação** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) ⟶ **Documentação** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ETL-3670A0?logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-Modelagem-FF694B?logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehouse-29B5E8?logo=snowflake&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?logo=power-bi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-Ambiente-2496ED?logo=docker&logoColor=white)
+
+O fluxo do projeto segue uma arquitetura analítica moderna:
+
+Coleta (IA) ⟶ Limpeza & ETL (Python) ⟶ Modelagem & Análise (SQL / dbt) ⟶ Visualização (Power BI) ⟶ Documentação (GitHub)
 
 | Etapa | Ferramenta | Função |
 |-------|------------|------|
 | Coleta & extração | IA via prompts | Extração manual e estruturada de dados das vagas coletadas |
 | Visualização inicial | Excel | Conferência e revisão rápida dos dados brutos |
-| Limpeza e padronização | Python | Padronização de colunas, correção de inconsistências, limpeza, padronização e carga direta no Data Warehouse (Snowflake) |
-| Análise e modelagem | SQL | Criação de queries analíticas, views e agregações para encontrar insights |
-| Dashboards | Power BI | Visualização interativa, storytelling e exploração de tendências do mercado |
-| Documentação | GitHub | Registro completo do projeto, metodologia, estrutura do repositório e exemplos de dashboards |
-
-> 💡 Observação: Python permite **automatizar toda a cadeia de transformação**, tornando o fluxo de dados mais eficiente e escalável do que usar Excel para limpeza manual.
+| Limpeza e padronização | Python | Limpeza, padronização e carga direta no Data Warehouse(Snowflake) |
+| Modelagem e análise | SQL / dbt | Transformações analíticas e geração de métricas no Data Warehouse |
+| Dashboards | Power BI | Visualização interativa e storytelling|
+| Documentação | GitHub | Registro do projeto e metodologia |
 
 ---
 
@@ -60,8 +66,13 @@ O fluxo do projeto segue:
 
 Essa evolução reflete a transição de um pipeline **local e monolítico** para uma **arquitetura moderna, escalável e alinhada às boas práticas de engenharia de dados**.
 
----
+> 🛠️ Consideração arquitetural  
+> Durante o design do pipeline, foi avaliado o uso do **Apache Airflow** para automatizar a coleta e orquestrar o fluxo de dados.  
+> No entanto, devido às **restrições de acesso, API fechada e políticas anti-scraping do LinkedIn**, a ingestão de dados é realizada manualmente, tornando inviável a automação dessa etapa neste projeto.  
+> Dessa forma, a orquestração foi mantida fora do escopo, sem impacto na modelagem analítica e nos insights gerados.
 
+
+---
 ## 📂 Estrutura do Repositório
 
 <p align="left">
