@@ -1,0 +1,110 @@
+version: 2
+
+models:
+
+  - name: vagas_senioridade
+    description: "Volume de vagas por senioridade"
+    columns:
+      - name: senioridade
+        description: "Nível da vaga (Júnior, Pleno, Sênior)"
+        tests:
+          - not_null
+      - name: vagas_totais
+        description: "Quantidade total de vagas"
+        tests:
+          - not_null
+
+  - name: top3skill_obri_seniori
+    description: "Top 3 skills obrigatórias por senioridade"
+    columns:
+      - name: senioridade
+        tests:
+          - not_null
+      - name: skill
+        tests:
+          - not_null
+      - name: qtde
+        tests:
+          - not_null
+
+  - name: top3skill_dif_seniori
+    description: "Top 3 skills diferenciais por senioridade"
+    columns:
+      - name: senioridade
+        tests:
+          - not_null
+      - name: skill
+        tests:
+          - not_null
+      - name: qtde
+        tests:
+          - not_null
+
+  - name: vagas_estado
+    description: "Distribuição de vagas por estado"
+    columns:
+      - name: estado
+        tests:
+          - not_null
+      - name: qtde_vagas
+        tests:
+          - not_null
+
+  - name: percentual_vagas_estado
+    description: "Percentual do total de vagas por estado"
+    columns:
+      - name: estado
+        tests:
+          - not_null
+      - name: qtd_vagas
+        tests:
+          - not_null
+      - name: percentual
+        tests:
+          - not_null
+
+  - name: vagas_modalidade
+    description: "Distribuição de vagas por modalidade (remoto, híbrido, presencial)"
+    columns:
+      - name: modalidade
+        tests:
+          - not_null
+      - name: qtde_vagas
+        tests:
+          - not_null
+
+  - name: vagas_setor
+    description: "Top 5 setores por quantidade de vagas"
+    columns:
+      - name: setor
+        tests:
+          - not_null
+      - name: qtde_vagas
+        tests:
+          - not_null
+
+  - name: top5skill_obg_setor
+    description: "Top 5 skills obrigatórias por setor (top 5 setores)"
+    columns:
+      - name: setor
+        tests:
+          - not_null
+      - name: skill
+        tests:
+          - not_null
+      - name: qtde
+        tests:
+          - not_null
+
+  - name: top5skill_dif_setor
+    description: "Top 5 skills diferenciais por setor (top 5 setores)"
+    columns:
+      - name: setor
+        tests:
+          - not_null
+      - name: skill
+        tests:
+          - not_null
+      - name: qtde
+        tests:
+          - not_null

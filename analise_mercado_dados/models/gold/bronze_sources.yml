@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: bronze_sources
+    database: JOB_MARKET
+    schema: BRONZE
+    tables:
+      - name: VAGAS
+        description: "Tabela raw de vagas"
+      - name: SKILLS
+        description: "Tabela raw de skills"

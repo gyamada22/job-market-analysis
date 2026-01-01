@@ -1,0 +1,28 @@
+# models/sources/gold_sources.yml
+version: 2
+
+sources:
+  - name: gold_sources
+    database: JOB_MARKET
+    schema: GOLD
+    tables:
+      - name: VAGAS_SENIORIDADE
+        description: "Volume de vagas por senioridade"
+      - name: TOP3SKILL_OBRI_SENIORI
+        description: "Top 3 skills obrigatórias por senioridade"
+      - name: TOP3SKILL_DIF_SENIORI
+        description: "Top 3 skills diferenciais por senioridade"
+      - name: VAGAS_ESTADO
+        description: "Distribuição de vagas por estado"
+      - name: PERCENTUAL_VAGAS_ESTADO
+        description: "Percentual do total de vagas por estado"
+      - name: VAGAS_MODALIDADE
+        description: "Distribuição de vagas por modalidade"
+      - name: VAGAS_SETOR
+        description: "Top 5 setores por quantidade de vagas"
+      - name: TOP5SKILL_OBG_SETOR
+        description: "Top 5 skills obrigatórias por setor (top 5 setores)"
+      - name: TOP5SKILL_DIF_SETOR
+        description: "Top 5 skills diferenciais por setor (top 5 setores)"
+      - name: MY_FIRST_DBT_MODEL
+        description: "Exemplo de model Gold inicial"
