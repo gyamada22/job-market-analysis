@@ -32,7 +32,7 @@ O fluxo do projeto segue:
 |-------|------------|------|
 | Coleta & extração | IA via prompts | Extração manual e estruturada de dados das vagas coletadas |
 | Visualização inicial | Excel | Conferência e revisão rápida dos dados brutos |
-| Limpeza e padronização | Python | Padronização de colunas, correção de inconsistências, geração de arquivos limpos e carga no banco de dados SQL |
+| Limpeza e padronização | Python | Padronização de colunas, correção de inconsistências, limpeza, padronização e carga direta no Data Warehouse (Snowflake) |
 | Análise e modelagem | SQL | Criação de queries analíticas, views e agregações para encontrar insights |
 | Dashboards | Power BI | Visualização interativa, storytelling e exploração de tendências do mercado |
 | Documentação | GitHub | Registro completo do projeto, metodologia, estrutura do repositório e exemplos de dashboards |
