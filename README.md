@@ -86,8 +86,7 @@ Essa evolução reflete a transição de um pipeline **local e monolítico** par
 │
 ├── docs/
 │   ├── images/
-│   ├── README.md
-│   └── dbtest.md
+│   └── README.md
 │
 ├── models/
 │   ├── sources/
@@ -105,6 +104,7 @@ Essa evolução reflete a transição de um pipeline **local e monolítico** par
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+
 
 ```
 
