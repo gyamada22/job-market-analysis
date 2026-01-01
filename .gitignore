@@ -1,6 +1,13 @@
-.env
-.env.*
+# ignorar no github
+target/
+logs/
+analyses/
+macros/
+snapshots/
 
-data/raw/* 
-__pycache__/ 
-.ipynb_checkpoints/ 
+# seguranca
+.env
+
+# arquivos sistema
+__pycache__/
+.DS_Store
