@@ -1,15 +1,21 @@
 # Análise do Mercado de Dados
 
 ##  Descrição do Projeto
+
 - Este projeto tem como objetivo analisar **vagas reais de emprego na área de dados**, coletadas a partir de plataformas de recrutamento (LinkedIn), para extrair insights sobre **skills demandadas, tendências do mercado e gaps de competências**.
 
 - A análise é inicialmente focada no **mercado brasileiro**, com posterior **comparação com dados internacionais**, visando identificar padrões globais e possíveis tendências que podem chegar ao Brasil no futuro.
 
 - O projeto transforma dados não estruturados em **dashboards e insights analíticos**, documentando todo o pipeline de dados de forma clara e profissional.
 
+####  O Projeto em Números
+
+- **302 vagas reais** analisadas individualmente (mercado brasileiro – LinkedIn)
+- **2.400+ skills brutas (RAW)** extraídas das descrições das vagas.
+
+
 Inicialmente, o pipeline utilizava um banco de dados local (SQL Server via SSMS) para armazenamento dos dados tratados após o ETL em Python. 
 Com a evolução do projeto, a arquitetura foi modernizada para um **Data Warehouse em nuvem (Snowflake)**, incorporando **dbt para modelagem analítica** e **Docker para padronização e execução do ambiente**, aproximando o fluxo da realidade de pipelines profissionais.
-
 
 ---
 
