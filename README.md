@@ -237,8 +237,11 @@ Isso indica que o Tableau atua como um **marcador de especialização**, especia
 
 ## 5. Conclusão
 
-A análise evidencia que o crescimento exponencial do volume de dados impacta **todas as etapas da carreira em dados**.
+A análise evidencia que o crescimento exponencial do volume global de dados não é apenas um fenômeno tecnológico, mas um **fator estruturante do mercado de trabalho em dados**.
 
-O Cloud não surge apenas como uma especialização tardia, mas como **fundamento estrutural** do ecossistema moderno de dados — aparecendo desde o nível Júnior como diferencial e se consolidando como **infraestrutura essencial no nível Sênior**.
+Em mercados mais maduros, especialmente no exterior, a **Cloud já se consolida como infraestrutura base**, refletindo a necessidade de lidar com volumes massivos de dados, pipelines distribuídos e ambientes altamente escaláveis. Esse movimento se manifesta de forma clara nos níveis Pleno e Sênior, onde Cloud deixa de ser diferencial e passa a ser requisito implícito.
 
-Este projeto oferece uma visão prática e orientada ao mercado para profissionais que desejam **planejar sua evolução técnica de forma estratégica e alinhada à realidade atual**.
+No mercado brasileiro, os dados indicam que essa transição **já está em curso**. A presença crescente de Cloud como diferencial desde o nível Júnior sugere que o Brasil segue a mesma trajetória observada internacionalmente, ainda que em um estágio de maturidade anterior.
+
+Dessa forma, a tendência é que o Cloud deixe progressivamente o papel de especialização e se consolide como **fundamento técnico obrigatório** ao longo da carreira em dados no Brasil, acompanhando a expansão contínua do volume, da complexidade e da criticidade dos dados.
+
